@@ -27,6 +27,9 @@ font. Your theme's CSS can't break it.
 **[Design your widget](https://random-bible.com/bible-verse-widget/?utm_source=github&utm_medium=profile)**
 · [Source and docs](https://github.com/RandomBible/random-bible-verse)
 
+[![npm version](https://img.shields.io/npm/v/random-bible-verse)](https://www.npmjs.com/package/random-bible-verse)
+[![npm downloads](https://img.shields.io/npm/dm/random-bible-verse)](https://www.npmjs.com/package/random-bible-verse)
+
 ### Read a verse every day
 
 - [**Chrome extension**](https://chromewebstore.google.com/detail/pfhcpahijegoldmiekjikpgkcecbbjgh?utm_source=github&utm_medium=profile):
